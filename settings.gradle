@@ -1,0 +1,2 @@
+include ':app', ':onebeacon-android-1.0.26-javadoc', ':onebeacon-android-1.0.26'
+rootProject.name='iBeacon'
